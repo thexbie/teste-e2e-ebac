@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "XL",
+        "cor": "Purple",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "36",
+        "cor": "Blue",
+        "quantidade": 2
+    }, 
+    {
+        "nomeProduto": "Erica Evercool Sports Bra",
+        "tamanho": "L",
+        "cor": "Yellow",
+        "quantidade": 2
+    },  
+    {
+        "nomeProduto": "Atlas Fitness Tank",
+        "tamanho": "XL",
+        "cor": "Blue",
+        "quantidade": 5
+    }
+]
